@@ -1,0 +1,60 @@
+# Day 1 – Splunk Setup & Basics
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Splunk Setup & Basics**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+### Getting Started
+- Log in to Splunk Web
+- Explore **Search & Reporting** app
+- Run `index=*` to view events
+
+# Day 2 – Uploading Logs
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Uploading Logs**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+# Day 3 – Fields & Sourcetypes
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Fields & Sourcetypes**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+# Day 4 – Simple SPL Queries
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Simple SPL Queries**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+# Day 5 – Basic Filtering
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Basic Filtering**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+# Day 6 – Stats Command
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Stats Command**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
+
+# Day 7 – Time Search
+
+## Tasks
+- [ ] Read the included cheatsheet or docs for **Time Search**.
+- [ ] Run the example SPL/steps and paste results/screenshots into this file.
+- [ ] Write 2–3 observations (what looks normal vs suspicious).
+- [ ] Add at least 1 improvement idea for an alert or dashboard panel.
